@@ -1,2 +1,2 @@
-# DataCamp_DataScience
-DataCamp Data Science Certification
+# DataCamp Data Science Certification
+Storing useful code for future reference
